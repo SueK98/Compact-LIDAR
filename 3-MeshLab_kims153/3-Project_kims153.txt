@@ -1,0 +1,10 @@
+*comments*
+Soomin Kim
+400144820
+
+I measured the tof sensor on my bed to see if it's clear even though when I measure it on my bed
+However the file that I've measured from the ToF sensor was not accurate representative of the data
+There's some outliers because of the wires from the stepper motor interrupting the view of the Time of Flight sensor
+when rotating from the motor.
+So there's some discrepancies between the actual image of my room and the 3d rendered image
+Therefore, this comments explain the following images of 3D rendering
