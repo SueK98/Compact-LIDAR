@@ -1,4 +1,4 @@
-# Compact-LIDAR
+# Compact LIDAR
 
 In an industrial view of Commercial Light Detection and Ranging (LIDAR) equipment is
 expensive and heavily built. So, the application of an embedded spatial measurement system
