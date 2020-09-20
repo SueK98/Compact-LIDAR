@@ -1,5 +1,4 @@
 # Compact-LIDAR
-embedded spatial measurement system using time-of-flight sensor 
 
 In an industrial view of Commercial Light Detection and Ranging (LIDAR) equipment is
 expensive and heavily built. So, the application of an embedded spatial measurement system
